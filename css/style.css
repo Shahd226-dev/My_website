@@ -1,0 +1,38 @@
+/* Base styling */
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 2em;
+    margin: 0;
+}
+
+/* Headings */
+h1 {
+    color: #00ff88;
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+/* Paragraphs */
+p {
+    font-size: 1.2em;
+}
+
+/* Navigation bar */
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #00ff88;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: #ffffff;
+}
